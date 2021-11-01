@@ -51,7 +51,7 @@ Float(Decimal Places) :
 
 when the demical can float from left to right 
 
-Example : Pi(3.14159), random - 4.55, 445.77
+Example : Pi(3.14159), random(4.55, 445.77)
 
 
 
