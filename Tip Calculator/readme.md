@@ -8,6 +8,8 @@ Format the result to 2 decimal places = 33.60
 
 Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 
+Example : https://replit.com/@appbrewery/tip-calculator-start
+
 ## Take Aways :
 
 
