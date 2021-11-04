@@ -44,7 +44,7 @@ Important You should not use the sum() or len() functions in your answer. You sh
 
 CODE :
 
-# 🚨 Don't change the code below 👇
+#Don't change the code below 👇
 student_heights = input("Input a list of student heights ").split()
 sum_of_height = 0
 for n in range(0, len(student_heights)):
@@ -57,12 +57,12 @@ print(result)
 
 BY ANGELA :
 
-# 🚨 Don't change the code below 👇
+#Don't change the code below 👇
 student_heights = input("Input a list of student heights ").split()
 for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])
-# print(student_heights)
-# 🚨 Don't change the code above 👆
+#print(student_heights)
+#Don't change the code above 👆
 
 #Write your code below this row 👇
 
